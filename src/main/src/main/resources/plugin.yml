@@ -1,6 +1,0 @@
-name: AutoItemClear
-version: '${project.version}'
-main: dev.autoitemclear.AutoItemClear
-api-version: '1.21.11'
-description: A jatekosok altal kidobott targyakat 30 masodperc utan torli.
-author: AutoItemClear
